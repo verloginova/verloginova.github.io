@@ -1,1 +1,9 @@
 theme: jekyll-theme-tactile
+
+# Aux links for the upper right navigation
+aux_links:
+  "Главная":
+    - "//verloginova.github.io/index"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
